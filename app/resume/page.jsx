@@ -15,7 +15,7 @@ import { Description, Title } from "@radix-ui/react-dialog";
 
 const about = {
   title:'About me',
-  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit.Morbi sem nunc, auctor quis ultrices non, elementum at massa.",
+  description:"I am a passionate and experienced web developer with over 8 years in the industry, specializing in both front-end and back-end development. My goal is to create seamless digital experiences that are both functional and visually appealing. I am constantly learning and adapting to new technologies to provide innovative solutions for my clients. With a background in both design and development, I bring a holistic approach to every project, ensuring a perfect blend of aesthetics and functionality.",
   info:[
     {
       fieldName: "Name",
@@ -59,12 +59,12 @@ const about = {
 const experience = {
   icon: 'assets/resume/badge.svg',
   title: 'My experience',
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Morbi sem nunc, auctor quis ultrices non, elementum at massa.",
+  description: "With a strong foundation in full-stack development, I have gained hands-on experience across a range of roles and projects. My journey has allowed me to work in collaborative environments, solving complex challenges and delivering innovative solutions that drive business success. From internships to full-time positions, each role has contributed to my growth as a developer, enhancing my technical skills and deepening my understanding of modern web technologies.",
   items: [
     {
-      company:"Tech Solutions Inc.",
+      company:" AiDapo Ecommerce Store",
       position:"Full Stack Developer",
-      duration:"2022 - Present",
+      duration:"2024 - Present",
     },
     {
       company:"Web Design Studio",
@@ -97,12 +97,12 @@ const experience = {
 const education = {
   icon: 'assets/resume/cap.svg',
   title: 'My education',
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Morbi sem nunc, auctor quis ultrices non, elementum at massa.",
+  description: "I am committed to continuous learning and professional development, equipping myself with the latest skills in web development and programming. My educational journey includes completing rigorous courses and bootcamps focused on full-stack and front-end development, where I gained in-depth knowledge of modern tools and frameworks. Each course has helped me build a strong foundation in both theoretical and practical aspects of software development.",
   items: [
     {
-      institution:"Online Course Platform",
-      degree:"Full Stack Web Development Bootcamp",
-      duration:"2023",
+      institution:"Obafemi Awolowo University",
+      degree:"Computer Science with Mathematics",
+      duration:"2018-2023",
     },
     {
       institution:"Codecademy",
@@ -135,7 +135,7 @@ const education = {
 
 const skills = {
   title : "My Skills",
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Morbi sem nunc, auctor quis ultrices non, elementum at massa.",
+  description : "Throughout my career, I have built a strong skill set in modern web development and design tools. My expertise includes core front-end technologies like HTML, CSS, and JavaScript, along with frameworks such as React and Next.js for building dynamic and interactive user interfaces. I am also proficient in back-end technologies like Node.js, allowing me to develop full-stack applications. Additionally, I have experience with responsive design using Tailwind CSS, ensuring optimized experiences across devices. My continuous learning keeps me up-to-date with the latest tools and trends in the industry.",
   skillList: [
     {
       icon: <FaHtml5 />,

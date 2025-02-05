@@ -7,25 +7,25 @@ const services = [
   {
     num: '01',
     title:"Web Development",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sem nunc, auctor quis ultrices non, elementum at massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tristique aliquam lacus quis venenatis. Nunc volutpat quis dolor nec imperdiet. Curabitur convallis est at metus lacinia vehicula. Suspendisse potenti. Nullam finibus vehicula ipsum et ultricies. Nunc a tempus eros. Cras hendrerit mollis dui",
+    description:"Web development is the foundation of a brand's digital presence. From creating responsive websites to building complex web applications, our team ensures that every line of code is optimized for performance and user experience. We specialize in modern frameworks, ensuring seamless functionality and scalability. Whether you're a startup or an established business, we work closely with you to develop websites that are fast, secure, and tailored to your business goals.",
     href:""
   },
   {
     num: '02',
     title:"UI/UX Design",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sem nunc, auctor quis ultrices non, elementum at massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tristique aliquam lacus quis venenatis. Nunc volutpat quis dolor nec imperdiet. Curabitur convallis est at metus lacinia vehicula. Suspendisse potenti. Nullam finibus vehicula ipsum et ultricies. Nunc a tempus eros. Cras hendrerit mollis dui",
+    description:"UI/UX design is about creating meaningful and intuitive digital experiences. Our approach to design focuses on user-centered research and creative solutions, ensuring that every interaction feels natural and engaging. We design interfaces that not only look stunning but also prioritize accessibility and ease of use. By combining aesthetics with functionality, we help brands connect with their audiences in a memorable way, making digital experiences as delightful as they are effective.",
     href:""
   },
   {
     num: '03',
     title:"Logo Design",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sem nunc, auctor quis ultrices non, elementum at massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tristique aliquam lacus quis venenatis. Nunc volutpat quis dolor nec imperdiet. Curabitur convallis est at metus lacinia vehicula. Suspendisse potenti. Nullam finibus vehicula ipsum et ultricies. Nunc a tempus eros. Cras hendrerit mollis dui",
+    description:"A logo is the face of your brand, and we understand its importance in making a memorable first impression. Our logo design process involves research, creativity, and collaboration to craft symbols that are both visually striking and representative of your brand's core values. Whether you're starting fresh or rebranding, we create logos that leave a lasting impact and resonate with your audience.",
     href:""
   },
   {
     num: '04',
     title:"SEO",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sem nunc, auctor quis ultrices non, elementum at massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tristique aliquam lacus quis venenatis. Nunc volutpat quis dolor nec imperdiet. Curabitur convallis est at metus lacinia vehicula. Suspendisse potenti. Nullam finibus vehicula ipsum et ultricies. Nunc a tempus eros. Cras hendrerit mollis dui",
+    description:"SEO is about making your content easily discoverable by the right audience. Our SEO strategies combine technical optimization, keyword research, and content development to improve your website’s visibility on search engines. By analyzing your industry, competitors, and audience, we create targeted plans to boost your online presence, drive organic traffic, and ultimately help you reach your business goals.",
     href:""
   },
 ];
